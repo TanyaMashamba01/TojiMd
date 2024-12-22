@@ -289,7 +289,7 @@ if (pairingCode && !conn.authState.creds.registered) {
 
     if (!Object.keys(PHONENUMBER_MCC).some(v => phoneNumber.startsWith(v))) {
       console.log(
-        chalk.bgBlack(chalk.redBright("Start with your country's WhatsApp code, Example : 254xxx"))
+        chalk.bgBlack(chalk.redBright("Start with your country's WhatsApp code, Example : 263xxx"))
       )
 
       phoneNumber = await question(
