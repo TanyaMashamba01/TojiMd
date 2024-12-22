@@ -33,7 +33,7 @@
 
 *****DEPLOYMENT SITE👇*****
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KINGJOHAN/TOJIMD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tanyaMashamba01/TOJIMD)
   
 <a href='https://replit.com/~' target="_blank"><img alt='Deploy Replit' src='https://img.shields.io/badge/DEPLOY REPLIT-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
